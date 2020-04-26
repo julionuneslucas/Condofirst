@@ -7,11 +7,11 @@ Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Micros
 
 ## About
 
-Portfolio Website with fixed topbar and four diferent layouts:
-- Home (Full Screen Photo layout);
-- About Me (One-Column Layout);
-- My Projects (Boxes Layout);
-- Contact Me (Featured Image Layout).
+Condofirst Website with fixed topbar and four pages and diferent layouts (Featured Image Layout, Headline and Thumbnails Gallery Layout and Form Layouts):
+- Inicio;
+- Quem Somos;
+- Serviços; 
+- Contactos. 
 
 site is published at https://julionuneslucas.github.io/Condofirst/
 
